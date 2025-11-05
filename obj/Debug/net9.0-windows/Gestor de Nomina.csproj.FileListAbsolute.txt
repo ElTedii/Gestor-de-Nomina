@@ -1,0 +1,24 @@
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\bin\Debug\net9.0-windows\Gestor de Nomina.exe
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\bin\Debug\net9.0-windows\Gestor de Nomina.deps.json
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\bin\Debug\net9.0-windows\Gestor de Nomina.runtimeconfig.json
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\bin\Debug\net9.0-windows\Gestor de Nomina.dll
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\bin\Debug\net9.0-windows\Gestor de Nomina.pdb
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmPrincipal.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor de Nomina.csproj.GenerateResource.cache
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor de Nomina.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor de Nomina.AssemblyInfoInputs.cache
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor de Nomina.AssemblyInfo.cs
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor de Nomina.csproj.CoreCompileInputs.cache
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor de Nomina.dll
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\refint\Gestor de Nomina.dll
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor de Nomina.pdb
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor de Nomina.genruntimeconfig.cache
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\ref\Gestor de Nomina.dll
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor de Nomina.g.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmHome.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.Properties.Resources.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmCompanies.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmEmployeesCat.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmDepartsCat.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmPercepDedCat.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmPuestosCat.resources
