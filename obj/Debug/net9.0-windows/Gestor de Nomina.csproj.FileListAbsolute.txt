@@ -22,3 +22,6 @@ D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\n
 D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmDepartsCat.resources
 D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmPercepDedCat.resources
 D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmPuestosCat.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmAccountsPass.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmProccesesNom.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor de Nomina.sourcelink.json

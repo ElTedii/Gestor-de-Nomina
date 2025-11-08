@@ -85,6 +85,7 @@ namespace Gestor_de_Nomina
 
         private void btnNomProcesses_Click(object sender, EventArgs e)
         {
+            openChildForm(new frmProccesesNom());
             hideSubMenu();
         }
 
