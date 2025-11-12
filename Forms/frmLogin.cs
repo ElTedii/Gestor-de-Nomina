@@ -16,5 +16,10 @@ namespace Gestor_de_Nomina.Forms
         {
             InitializeComponent();
         }
+
+        private void btnIngresar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

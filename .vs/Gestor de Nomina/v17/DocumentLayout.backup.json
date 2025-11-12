@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "D:\\Users\\Tedss\\Documents\\Desarrollo\\Programacion\\c#\\Gestor de Nomina\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC7F951C-1234-4084-B9CE-43695F226F25}|Gestor de Nomina.csproj|D:\\Users\\Tedss\\Documents\\Desarrollo\\Programacion\\c#\\Gestor de Nomina\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AC7F951C-1234-4084-B9CE-43695F226F25}|Gestor de Nomina.csproj|d:\\users\\tedss\\documents\\desarrollo\\programacion\\c#\\gestor de nomina\\forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7F951C-1234-4084-B9CE-43695F226F25}|Gestor de Nomina.csproj|solutionrelative:forms\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7F951C-1234-4084-B9CE-43695F226F25}|Gestor de Nomina.csproj|d:\\users\\tedss\\documents\\desarrollo\\programacion\\c#\\gestor de nomina\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC7F951C-1234-4084-B9CE-43695F226F25}|Gestor de Nomina.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC7F951C-1234-4084-B9CE-43695F226F25}|Gestor de Nomina.csproj|d:\\users\\tedss\\documents\\desarrollo\\programacion\\c#\\gestor de nomina\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AC7F951C-1234-4084-B9CE-43695F226F25}|Gestor de Nomina.csproj|solutionrelative:forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -14,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "D:\\Users\\Tedss\\Documents\\Desarrollo\\Programacion\\c#\\Gestor de Nomina\\Forms\\Form1.cs",
               "RelativeDocumentMoniker": "Forms\\Form1.cs",
@@ -28,6 +36,32 @@
               "WhenOpened": "2025-11-08T05:59:29.466Z",
               "IsPinned": true,
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Users\\Tedss\\Documents\\Desarrollo\\Programacion\\c#\\Gestor de Nomina\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "Forms\\Form1.cs",
+              "ToolTip": "D:\\Users\\Tedss\\Documents\\Desarrollo\\Programacion\\c#\\Gestor de Nomina\\Forms\\Form1.cs",
+              "RelativeToolTip": "Forms\\Form1.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAnwJAAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T15:15:15.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Users\\Tedss\\Documents\\Desarrollo\\Programacion\\c#\\Gestor de Nomina\\Forms\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Forms\\frmLogin.cs",
+              "ToolTip": "D:\\Users\\Tedss\\Documents\\Desarrollo\\Programacion\\c#\\Gestor de Nomina\\Forms\\frmLogin.cs",
+              "RelativeToolTip": "Forms\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-12T15:14:58.958Z",
+              "EditorCaption": ""
             }
           ]
         }
