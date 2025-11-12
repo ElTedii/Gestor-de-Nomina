@@ -25,3 +25,7 @@ D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\n
 D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmAccountsPass.resources
 D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmProccesesNom.resources
 D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor de Nomina.sourcelink.json
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmCFDI.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmIMSS.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.frmINFONAVIT.resources
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.Forms.frmLogin.resources

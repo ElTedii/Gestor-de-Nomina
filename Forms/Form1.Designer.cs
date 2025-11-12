@@ -481,6 +481,7 @@
             Controls.Add(panelPrincipal);
             Controls.Add(panelSideMenu);
             Font = new Font("Verdana", 10F);
+            HelpButton = true;
             Icon = (Icon)resources.GetObject("$this.Icon");
             MinimumSize = new Size(950, 600);
             Name = "frmPrincipal";

@@ -116,7 +116,7 @@
             // 
             // panel1
             // 
-            panel1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            panel1.AutoSize = true;
             panel1.BackColor = Color.FromArgb(39, 52, 79);
             panel1.Controls.Add(btnOpPerDed);
             panel1.Controls.Add(label5);
@@ -161,7 +161,7 @@
             // 
             // panel2
             // 
-            panel2.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
+            panel2.AutoSize = true;
             panel2.BackColor = Color.FromArgb(39, 52, 79);
             panel2.Controls.Add(button1);
             panel2.Controls.Add(label7);
@@ -227,6 +227,7 @@
             panel2.ResumeLayout(false);
             panel2.PerformLayout();
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion

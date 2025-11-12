@@ -91,16 +91,19 @@ namespace Gestor_de_Nomina
 
         private void btnCFDI_Click(object sender, EventArgs e)
         {
+            openChildForm(new frmCFDI());
             hideSubMenu();
         }
 
         private void btnIMSS_Click(object sender, EventArgs e)
         {
+            openChildForm(new frmIMSS());
             hideSubMenu();
         }
 
         private void btnINFONAVIT_Click(object sender, EventArgs e)
         {
+            openChildForm(new frmINFONAVIT());
             hideSubMenu();
         }
 

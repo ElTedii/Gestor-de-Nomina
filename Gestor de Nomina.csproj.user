@@ -1,31 +1,43 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Compile Update="Form1.cs">
+    <Compile Update="Forms\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frmAccountsPass.cs">
+    <Compile Update="Forms\frmAccountsPass.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frmCompanies.cs">
+    <Compile Update="Forms\frmCFDI.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frmDepartsCat.cs">
+    <Compile Update="Forms\frmCompanies.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frmEmployeesCat.cs">
+    <Compile Update="Forms\frmDepartsCat.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frmHome.cs">
+    <Compile Update="Forms\frmEmployeesCat.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frmPercepDedCat.cs">
+    <Compile Update="Forms\frmHome.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frmProccesesNom.cs">
+    <Compile Update="Forms\frmIMSS.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="frmPuestosCat.cs">
+    <Compile Update="Forms\frmINFONAVIT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmPercepDedCat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmProccesesNom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\frmPuestosCat.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>

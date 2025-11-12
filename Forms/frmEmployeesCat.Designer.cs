@@ -57,7 +57,7 @@
             txtSearchEmploy.ForeColor = Color.FromArgb(226, 232, 240);
             txtSearchEmploy.Location = new Point(12, 49);
             txtSearchEmploy.Name = "txtSearchEmploy";
-            txtSearchEmploy.PlaceholderText = "Buscar por nombre, RFS o NSS";
+            txtSearchEmploy.PlaceholderText = "Buscar por nombre, RFC o NSS";
             txtSearchEmploy.Size = new Size(498, 22);
             txtSearchEmploy.TabIndex = 1;
             // 
