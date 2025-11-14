@@ -1,3 +1,5 @@
+using Gestor_de_Nomina.Forms;
+
 namespace Gestor_de_Nomina
 {
     internal static class Program
@@ -11,7 +13,7 @@ namespace Gestor_de_Nomina
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new frmPrincipal());
+            Application.Run(new frmLogin());
         }
     }
 }
