@@ -40,5 +40,8 @@
     <Compile Update="Forms\frmPuestosCat.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\outCompany.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

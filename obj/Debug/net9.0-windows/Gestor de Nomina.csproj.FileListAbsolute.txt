@@ -72,3 +72,4 @@ D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\bin\Debug\n
 D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\bin\Debug\net9.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor de Nomina.csproj.AssemblyReference.cache
 D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor d.9FFE246E.Up2Date
+D:\Users\Tedss\Documents\Desarrollo\Programacion\c#\Gestor de Nomina\obj\Debug\net9.0-windows\Gestor_de_Nomina.Forms.outCompany.resources
